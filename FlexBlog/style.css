@@ -231,7 +231,7 @@ img {
   margin-bottom: 15px;
 }
 
-.preco-item li::after{/*criando pseudo elemento*/
+.preco-item li::after{/*criando pseudo-elemento*/
   content: '';
   display: block;
   width: 6px;
